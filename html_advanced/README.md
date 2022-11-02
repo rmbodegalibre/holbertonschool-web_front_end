@@ -42,6 +42,5 @@
 <li>Your code should be W3C compliant and validate with&nbsp;<a title="W3C-Validator" href="https://intranet.hbtn.io/rltoken/PGMawpPNVjI6mY54SvVwew" target="_blank" rel="noopener">W3C-Validator</a></li>
 <li><code>Techium</code>&nbsp;will be the name of the company we will use across our webpages.</li>
 </ul>
-<h2>Sitemap of the project</h2>
-<p><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221031%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221031T182717Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d8a1008035d9f432a7fa48873911fd701cbe8840131ad61001c0698448b7f17e" alt="" /><img src="https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/4/4dec2ba9d84a0a55355b1c1e2de4c57854a2d35a.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOU5BHMTQX4%2F20221031%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20221031T182717Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d8a1008035d9f432a7fa48873911fd701cbe8840131ad61001c0698448b7f17e" /></p>
+<p>&nbsp;</p>
 </div>
